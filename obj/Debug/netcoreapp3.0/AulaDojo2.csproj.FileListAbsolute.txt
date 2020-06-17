@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\AulaDojo2\obj\Debug\netcoreapp3.0\AulaDojo2.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\AulaDojo2\obj\Debug\netcoreapp3.0\AulaDojo2.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\AulaDojo2\obj\Debug\netcoreapp3.0\AulaDojo2.AssemblyInfo.cs
+C:\Users\senai\Desktop\AulaDojo2\bin\Debug\netcoreapp3.0\AulaDojo2.exe
+C:\Users\senai\Desktop\AulaDojo2\bin\Debug\netcoreapp3.0\AulaDojo2.deps.json
+C:\Users\senai\Desktop\AulaDojo2\bin\Debug\netcoreapp3.0\AulaDojo2.runtimeconfig.json
+C:\Users\senai\Desktop\AulaDojo2\bin\Debug\netcoreapp3.0\AulaDojo2.runtimeconfig.dev.json
+C:\Users\senai\Desktop\AulaDojo2\bin\Debug\netcoreapp3.0\AulaDojo2.dll
+C:\Users\senai\Desktop\AulaDojo2\bin\Debug\netcoreapp3.0\AulaDojo2.pdb
+C:\Users\senai\Desktop\AulaDojo2\obj\Debug\netcoreapp3.0\AulaDojo2.dll
+C:\Users\senai\Desktop\AulaDojo2\obj\Debug\netcoreapp3.0\AulaDojo2.pdb
